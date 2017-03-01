@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Screenbrightness/AppDelegate.swift"
+            timestampString = "510071066.995823"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "getBrightnessLevel()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Screenbrightness.AppDelegate.(getBrightnessLevel in _3B070A35CF92F7DDFC89DEE004A67C50) () -&gt; ()"
+                  moduleName = "Screenbrightness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaapmengers/Projects/Screenbrightness/Screenbrightness/AppDelegate.swift"
+                  timestampString = "510071067.296148"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "642">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Screenbrightness.AppDelegate.((getBrightnessLevel in _3B070A35CF92F7DDFC89DEE004A67C50) () -&gt; ()).(closure #1)"
+                  moduleName = "Screenbrightness"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jaapmengers/Projects/Screenbrightness/Screenbrightness/AppDelegate.swift"
+                  timestampString = "510071067.298702"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "30">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

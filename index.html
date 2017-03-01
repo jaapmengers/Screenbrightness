@@ -1,0 +1,21 @@
+<script>
+var exampleSocket = new WebSocket("ws://localhost:3000");
+
+var el;
+
+document.addEventListener("DOMContentLoaded", function() {
+  el = document.getElementById('item');
+});
+
+exampleSocket.onmessage = function (event) {
+  const res = parseFloat(event.data);
+  const val = ((1 - res) * 80) + 80;
+
+  if(el) {
+    el.style.cssText = `font-size: 72px; font-family: 'GradeGX'; min-height: 1em; font-variation-settings: 'wght' ${val};`
+  }
+}
+
+</script>
+
+<div id="item">Hello, World!</div>
